@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+
+/*-----------------------------------------Font Styles */
+ * {
+     margin: 0;
+     padding: 0; 
+     
+}
+
+/*-----------------------------------------Colour */
+
+.navbar {
+    background-color: #31708e !important;
+}
+
+.navbar .nav-brand {
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar .nav-brand:hover {
+    color:  #cccccc;
+}
+
+
+
+.navbar .nav-link {
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar .nav-link:hover {
+    color:  #86b3d1;
+
+}
+
+
+    
+/*-----------------------------------------Footer */
+
