@@ -381,6 +381,8 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+    bottom: 0;
+    z-index: 100;
 }
 .inline-block{
     color:white !important;
