@@ -45,45 +45,45 @@ later stage to check what new skills, or projects are added to the website since
 * [Potfolio](assets/wireframes/Potfolio.png)
 * [Contact](assets/wireframes/contact1.png)
 
-##h3 DESIGN:
+## DESIGN:
 
- ####h4 Color scheme
+ #### Color scheme
 
 - The main colors used is green rgb(121,152,154) for the navigation bar and footer background. A dark shade grey rgb(48, 54, 52) for the button with a black color when hoover. For the card a light gray color rgb(211,211,211) is used.
 Social links a dark shade grey rgb(48, 54, 52) is used with a orange color when hoover. 
 
-###h4 Typography
+### Typography
 - Two main fonts are used, the first one is the Oswald fonts which is used in headings and the navigation bar.The second font is Lato, which is used in the paragraph content along with Sans Serif
 as a fall back font, this means for some resons if Lato fails to load the Sans Serif will load up to back the failed font. The same idea
 also applies with Oswald. Problem which can arise from this it could be that, the fonts is not loaded properly or issues with the time it takes
 for the font to load there are actually various factors to this.
 
-####h4 Imagery
+#### Imagery
 - My profile picture.
 
-## Wireframe:
+## Wireframes:
 
-###h3 MOBILE
+### MOBILE
 * [home](wireframes/mob-home.jpg)
 * [about](wireframes/mob-about.jpg)
 * [portfolio](wireframes/portfolio-mob.jpg)
 * [contact](wireframes/mob-contct.jpg)
 
-###h3 IPAD
+### IPAD
 
 * [home](wireframes/ipad-hom.jpg)
 * [about](wireframes/ipad-about.jpg)
 * [portfolio](wireframes/portfolio-ipad.jpg)
 * [contact](wireframes/ipad-contact.jpg)
 
-###h3 DESKTOP
+### DESKTOP
 
 * [home](wireframes/desktop-hom.jpg)
 * [about](wireframes/deskt-about.jpg)
 * [portfolio](wireframes/portfolio-desk.jpg)
 * [contact](wireframes/desktop-conatc.jpg)
 
-###h3 Features:
+### Features:
 
 
 
