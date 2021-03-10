@@ -63,20 +63,20 @@ for the font to load there are actually various factors to this.
 
 ## Wireframes:
 
-### MOBILE
+##### MOBILE
 * [home](wireframes/mob-home.jpg)
 * [about](wireframes/mob-about.jpg)
 * [portfolio](wireframes/portfolio-mob.jpg)
 * [contact](wireframes/mob-contct.jpg)
 
-### IPAD
+##### IPAD
 
 * [home](wireframes/ipad-hom.jpg)
 * [about](wireframes/ipad-about.jpg)
 * [portfolio](wireframes/portfolio-ipad.jpg)
 * [contact](wireframes/ipad-contact.jpg)
 
-### DESKTOP
+##### DESKTOP
 
 * [home](wireframes/desktop-hom.jpg)
 * [about](wireframes/deskt-about.jpg)
