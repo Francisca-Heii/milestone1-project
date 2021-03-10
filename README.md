@@ -45,6 +45,12 @@ later stage to check what new skills, or projects are added to the website since
 * [Potfolio](assets/wireframes/Potfolio.png)
 * [Contact](assets/wireframes/contact1.png)
 
+###h3 Features:
+
+Each page has a responsive navigation bar
+
+
+
 
 
   

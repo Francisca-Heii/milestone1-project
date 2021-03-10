@@ -61,7 +61,7 @@ body {
 }
 
 section {
-    padding: 40px;
+    padding: 10px;
 }
 
 h1 {
@@ -78,7 +78,7 @@ h2 {
     padding: 20px 0px;
     font-size: 40px !important;
     font-weight: 900;
-    font-family: "Oswald", sans-serif
+    font-family: "Oswald", sans-serif;
 }
 
 h3 {
@@ -95,8 +95,6 @@ p {
 }
 
 .img-gap img {
-   /* width: 50%; */
-    height: 400px;
     position: relative;
     background-size: 100% 100%;
     box-shadow: 1px 2px 10px 6px white;
@@ -171,7 +169,7 @@ p a:hover {
 
 h2, h5 {
     font-weight:900 !important;
-    font-family: "Oswald" sans-serif;
+    font-family: "Oswald", sans-serif;
 }
 
 p {
@@ -223,10 +221,10 @@ p {
     margin:0;
     display:block;
 }
-.hori-timeline .events {
+/*.hori-timeline .events {
     border-top: 3px solid #e9ecef;
 }
-
+*/
     .hori-timeline .events .event-list {
         display: block;
         position: relative;
@@ -235,13 +233,13 @@ p {
         margin-right: 0;
     }
 
-        .hori-timeline .events .event-list:before {
+     /*   .hori-timeline .events .event-list:before {
             content: "";
             position: absolute;
             height: 36px;
             border-right: 2px dashed #dee2e6;
             top: 0;
-        }
+        } */
         .hori-timeline h5{
             padding-top: 20px !important;
         }
@@ -302,6 +300,7 @@ p {
 div.form {
     display: block;
     text-align: center;
+    padding: 0 5px;
 }
 
 form {
@@ -320,7 +319,7 @@ ul {
 }
 h5{
     font-weight:900;
-    font-family: "Oswald" sans-serif;
+    font-family: "Oswald", sans-serif;
     
 }
 
@@ -356,7 +355,7 @@ textarea.ng-invalid.ng-touched {
     color: #fd27eb !important;
 }
 
-/*.contact-form-area .button-default.disabled, .contact-form-area .button-default:disabled {*/
+
  .contact-form-area .contact-form-area {
     color: #fff;
     background-color: #f7da9d;
@@ -441,11 +440,4 @@ footer {
     padding: 10px;
 }
 
-/*.persistant {
-    position: fixed;
-    height: 90px;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index:10;
-}*/
+
