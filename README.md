@@ -45,9 +45,29 @@ later stage to check what new skills, or projects are added to the website since
 * [Potfolio](assets/wireframes/Potfolio.png)
 * [Contact](assets/wireframes/contact1.png)
 
+##h3 DESIGN:
+
+ ####h4 Color scheme
+
+- The main colors used is green rgb(121,152,154) for the navigation bar and footer background. A dark shade grey rgb(48, 54, 52) for the button with a black color when hoover. For the card a light gray color rgb(211,211,211) is used.
+Social links a dark shade grey rgb(48, 54, 52) is used with a orange color when hoover. 
+
+###h4 Typography
+- Two main fonts are used, the first one is the Oswald fonts which is used in headings and the navigation bar.The second font is Lato, which is used in the paragraph content along with Sans Serif
+as a fall back font, this means for some resons if Lato fails to load the Sans Serif will load up to back the failed font. The same idea
+also applies with Oswald. Problem which can arise from this it could be that, the fonts is not loaded properly or issues with the time it takes
+for the font to load there are actually various factors to this.
+
+####h4 Imagery
+- My profile picture.
+
 ###h3 Features:
 
-Each page has a responsive navigation bar
+All the four pages features a fixed responsive navigation bar at the top with a logo on the left with the name (Fran). While you 
+are on the navigation bar you can click to go to any of the four pages as long as you are on the current page. All the four pages
+have the same footer which is consists of the download icon to download a cv, this opens in a new tab. Addition to the download is 
+copy right information and five social links, when clicked they open in a new tab and the user can easily close that tab and still
+remains in the website.
 
 
 
