@@ -61,13 +61,30 @@ for the font to load there are actually various factors to this.
 ####h4 Imagery
 - My profile picture.
 
+## Wireframe:
+
+###h3 MOBILE
+* [home](wireframes/mob-home.jpg)
+* [about](wireframes/mob-about.jpg)
+* [portfolio](wireframes/portfolio-mob.jpg)
+* [contact](wireframes/mob-contct.jpg)
+
+###h3 IPAD
+
+* [home](wireframes/ipad-hom.jpg)
+* [about](wireframes/ipad-about.jpg)
+* [portfolio](wireframes/portfolio-ipad.jpg)
+* [contact](wireframes/ipad-contact.jpg)
+
+###h3 DESKTOP
+
+* [home](wireframes/desktop-hom.jpg)
+* [about](wireframes/deskt-about.jpg)
+* [portfolio](wireframes/portfolio-desk.jpg)
+* [contact](wireframes/desktop-conatc.jpg)
+
 ###h3 Features:
 
-All the four pages features a fixed responsive navigation bar at the top with a logo on the left with the name (Fran). While you 
-are on the navigation bar you can click to go to any of the four pages as long as you are on the current page. All the four pages
-have the same footer which is consists of the download icon to download a cv, this opens in a new tab. Addition to the download is 
-copy right information and five social links, when clicked they open in a new tab and the user can easily close that tab and still
-remains in the website.
 
 
 
