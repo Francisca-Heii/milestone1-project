@@ -201,6 +201,78 @@ on.
 - To re-develop and finish the Library managent system so that the user can navigate through the site and see what it does and how it does it.
 - To build a block and link it to my portfolio site and showcase my passion for technology.
 
+## Technologies used
+
+- [GitHub](https://github.com/)
+
+    - The flatform used to host the project 
+
+- [Gitpod](https://www.gitpod.io/)
+
+
+    - A software/IDE used to build the website
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) and [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+    - Html5 was used to structure and present content in the site while CSS3 was used for layouts, and styling.
+
+- [Bootstrap](https://getbootstrap.com/)CDN
+
+    - Used bootstrap to structure the website, list groups, card and to promote responsiveness of the application.
+
+    -  The project also uses popper.js from bootstrap, to reference javascript needed for responsive navigation bar.
+
+- [jQuery]( https://jquery.com/)
+
+    - jQuery to reference javascript required for the responsive navigation bar.
+
+
+- [Google Fonts](https://fonts.google.com/)  
+
+    - Was used to choose a font style for the website, where we see Oswald font used for headings and Lato for paragraphs.
+
+- [Font Awesome](https://fontawesome.com/) 
+
+    - Used to for the social link icons.
+
+    
+- [Material Icons](https://material.io/resources/icons/?style=baseline)
+
+    - Material icons was used for web icons to symbolise "Fats", "responsive" and "intuitive".
+
+- [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)  
+
+    - To visualize different elements and the code they produce, edit pages on the-fly and to diagnose quickly, and test responsiveness of the website.
+
+- [Figma](https://www.figma.com/)
+
+    - Used to create wireframes for the website.
+
+- [Jigsaw](https://jigsaw.w3.org/css-validator/)  
+
+    - Used to check for any errors in css code.
+
+- [W3C Markup Validator](https://validator.w3.org/)  
+
+    - To check for any errors in HTML code.
+
+- [Removebg](https://www.remove.bg/)  
+
+    - Used to remove background on my profile picture.
+
+- [AM I Responsive](http://ami.responsivedesign.is/)   
+
+
+    - Was used to see how the website looks across a few different viewports. For example desktop, laptop, tablet and mobile. 
+
+
+
+    
+ 
+        
+
+
+
 
 
 
