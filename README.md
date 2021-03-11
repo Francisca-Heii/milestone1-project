@@ -265,9 +265,49 @@ on.
 
     - Was used to see how the website looks across a few different viewports. For example desktop, laptop, tablet and mobile. 
 
+### Testing
+
+Find testing of the site [here](TESTING.md) 
+
+Used [W3C HTML Validator](http://ami.responsivedesign.is/) 
+
+1. index.html results after validation
+<p align="center"><img width="450" height="300" src="readme-images/index.jpg"></p>
+
+No error detected
 
 
-    
+2. about.html results after validation
+<p align="center"><img width="450" height="300" src="readme-images/abtpage.jpg"></p>
+
+No error detected
+
+3. portfolio.html results after validation
+<p align="center"><img width="450" height="300" src="readme-images/portpage.jpg"></p>
+
+No error detected
+
+4. contact.html results after validation
+<p align="center"><img width="450" height="300" src="readme-images/contpage.jpg"></p>
+
+No error detected
+
+5. style.css results after validation
+<p align="center"><img width="450" height="300" src="readme-images/style.jpg"></p>
+
+Error detected
+
+
+
+
+
+
+
+
+
+
+
+
  
         
 
