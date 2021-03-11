@@ -112,7 +112,6 @@ p .btn-large {
     display: inline-block;
     border-radius: 800px;
     background: #303634;
-    /*background: black;*/
     font-weight: 400;
     color: #fff;
 }
@@ -125,7 +124,7 @@ p .btn {
 
 p a:hover {
     background: black;
-   /* background: #303634;*/
+   
 }
 
 
@@ -145,7 +144,6 @@ p a:hover {
     text-align: center;
     display: block;
     font-size: 80px;
-    /*------circle arount icon*/
     margin: auto;
     padding-right: 12px;
     border: 2px solid black;
@@ -221,10 +219,7 @@ p {
     margin:0;
     display:block;
 }
-/*.hori-timeline .events {
-    border-top: 3px solid #e9ecef;
-}
-*/
+
     .hori-timeline .events .event-list {
         display: block;
         position: relative;
@@ -233,13 +228,6 @@ p {
         margin-right: 0;
     }
 
-     /*   .hori-timeline .events .event-list:before {
-            content: "";
-            position: absolute;
-            height: 36px;
-            border-right: 2px dashed #dee2e6;
-            top: 0;
-        } */
         .hori-timeline h5{
             padding-top: 20px !important;
         }
@@ -263,7 +251,7 @@ p {
         padding-top: 45px;
     }
 
-        .hori-timeline .events .event-list .event-date {
+ .hori-timeline .events .event-list .event-date {
             top: -12px;
         }
 }
@@ -428,7 +416,6 @@ footer {
     }
 
         .social-links li a i:hover {
-           /* background: #8f8f8f;*/
             background: #ea4610;
         }
 
