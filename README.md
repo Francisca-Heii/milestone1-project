@@ -38,13 +38,6 @@ later stage to check what new skills, or projects are added to the website since
 8. As a recruiter I want to see the candiate's contact information so that I can contact them.
 9. As a recruiter I want to see the developer's social media links so that I can connect with them.
 
-## Wireframe:
-
-* [Home](assets/wireframes/home.png)
-* [About](assets/wireframes/about.jpg)
-* [Potfolio](assets/wireframes/Potfolio.png)
-* [Contact](assets/wireframes/contact1.png)
-
 ## DESIGN:
 
  #### Color scheme
