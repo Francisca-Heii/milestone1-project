@@ -405,6 +405,23 @@ I still have problems with the footer. I gave font color of white to copy right 
 6. You will see where it says "your site is published at" such such a link. The site is deployed.
 
 
+#### How to run this project locally
+To clone this project from GitHub
+
+
+
+
+
+
+
+### Credits
+
+
+
+
+#### Acknowledgments
+
+
 
 
 
