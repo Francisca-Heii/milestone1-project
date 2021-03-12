@@ -361,6 +361,36 @@ Error detected
 
 
 
+### SITE RESPOSIVENESS:
+
+- Chrome Developer tools and AM I Reponsive was used to test the responsiveness of the webiste on different device screen sizes.
+
+<p align="center"><img width="1080" height="300" src="readme-images/responsive.jpg"></p>
+<p align="center"><img width="1080" height="300" src="readme-images/url.jpg"></p>
+
+##### NOTE BEFORE: 
+
+- The design is responsive in most of the device screen sizes.On large screen sies
+
+
+#### Browser Compatability
+
+<p align="center"><img width="900" height="150" src="readme-images/browesercom.jpg"></p>
+
+
+##### NOTE BEFORE: 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
