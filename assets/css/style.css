@@ -64,6 +64,10 @@ section {
     padding: 10px;
 }
 
+.min-height {
+    min-height: 710px !important;
+}
+
 h1 {
     text-align: center;
     padding: 20px 0px;
@@ -175,7 +179,7 @@ p {
     margin-bottom: 20px;
     font-size: 20px;
     line-height: 1.4;
-    color: lightslategray;
+  /*  color: lightslategray; */
 }
 
 .about-me img {

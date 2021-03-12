@@ -1,4 +1,4 @@
-#  Milestone Project 1
+##  Milestone Project 1
 ### Created a Pesrsonal Portifolio Website
 
 [Check out my deployed website](https://francisca-heii.github.io/milestone1-project/)
@@ -293,7 +293,7 @@ No error detected
 
 Error detected
 
-### User stories
+### User stories testing
 
 - As a recruiter I want to see a Developer's portfolio site so that I can short list some developer’s for an interview.
 
@@ -366,7 +366,7 @@ Error detected
 
 ##### NOTE BEFORE: 
 
-- The design is responsive in most of the device screen sizes.On large screen sies
+- The website is responsive on all devices. Images and links work as expected.
 
 
 #### Browser Compatability
@@ -375,6 +375,28 @@ Error detected
 
 
 ##### NOTE BEFORE: 
+
+- The website is compatable on most browsers. This was tested on Chrome, Opera, Firefox and Microsoft edge browsers.Although in Opera and Edge the text is 
+very difficult to read when the website is viewed on Ipad pro. 
+
+
+#### Bugs discovered 
+My profile photo was a little bit challenging to have it displaying properly on small devices. This was fixed by adding a class img-responsive to the image tag and the 
+removed the width of the image from the stylesheet.
+
+I faced an issue with fonts imported in the stylesheet. The first improted the Oswald fonts, somewhere along the line, I tried to use Lato for the paragraphs however it didn't seem to work. 
+To fix that I imported Lato fonts in the stylesheet and it worked. Moreover I still don't understand why I had to import two fonts style since from the previous mini projects I did in the course
+we only imported one font style.
+ 
+I still have problems with the footer. I gave font color of white to copy right and to download cv for some reason it is not taking any effect. I thought I might have overriden some style.
+
+
+### Bugs to be fixed
+
+
+
+
+
 
 
 
