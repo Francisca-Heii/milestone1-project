@@ -28,14 +28,14 @@ later stage to check what new skills, or projects are added to the website since
 * The content is relevant and on point.
 
 ### Users stories
-1. As a recruiter I want to see a Developer's portifolio site so that I can short list candiates for an interview.
+1. As a recruiter I want to see a Developer's portfolio site so that I can short list some developer’s for an interview.
 2. As a recruit I want to see the menu bar so that I can easily navigate the website.
 3. As a recruiter I want to see the candidate's bio, so I that can read more information about them.
-4. As a recruiter I want to see education and history of the candiate so that I can know their level of experience.
-5. As a recuiter I want to see the candidate's skills and any relevant competencies so that I can know if the're right fit for the job.
-6. As a recruiter I want to see the candiate's projects so that I can see their work and how they can deliver
-7. As a recruiter I want to download and print the candidate's CV so that I can refer to it during the interview
-8. As a recruiter I want to see the candiate's contact information so that I can contact them.
+4. As a recruiter I want to see the developer’s education and history so that I can know their level of experience.
+5. As a recruiter I want to see the candidate's skills and any relevant competencies so that I can know if they’re right fit for the job.
+6. As a recruiter I want to see the developer’s projects so that I can see their work and how they can deliver.
+7. As a recruiter I want to download and print the Developer’s CV so that I can refer to it during the interview.
+8. As a recruiter I want to see the developer’s contact information so that I can contact them.
 9. As a recruiter I want to see the developer's social media links so that I can connect with them.
 
 ## DESIGN:
