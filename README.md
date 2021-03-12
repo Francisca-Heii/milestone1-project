@@ -394,6 +394,17 @@ I still have problems with the footer. I gave font color of white to copy right 
 ### Bugs to be fixed
 
 
+### Deployment
+
+#### Steps taken to deploy My First Milestone project remotelt to GitHub pages:
+1. You should be loged in on GitHub
+2. Go to settings
+3. Scroll down to GitHub pages section
+4. Under the "source" heading there is a drop down menu click on "none", then select "Master Branch"
+5. The page refreshs aoutmatically and goes back to the top of the page, scroll gain to "github pages" section
+6. You will see where it says "your site is published at" such such a link. The site is deployed.
+
+
 
 
 
