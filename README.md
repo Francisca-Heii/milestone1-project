@@ -1,7 +1,10 @@
 #  Milestone Project 1
-## Pesrsonal Portifolio Website
+### Created a Pesrsonal Portifolio Website
+
+[Check out my deployed website](https://francisca-heii.github.io/milestone1-project/)
+
 Hi there!
- 
+
 This project is about building a static front-end Portifolio Website. The goal of the application is to display my education, skills, work 
 history, to grow my network and also serve as a personal brand.The key primarily user of the website is the recruiter. Although other people 
 can visit the site if catches their interest. The website allows potential recruiters to see my work, what I am capable of, what are my strengths 
