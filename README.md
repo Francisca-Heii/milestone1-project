@@ -297,6 +297,84 @@ No error detected
 
 Error detected
 
+### User stories
+
+- As a recruiter I want to see a Developer's portfolio site so that I can short list some developer’s for an interview.
+
+    - First thing if the site url is put into the browser, when the browser finishes loading the page the site is now visible to the user and on landing page.
+
+    - The user can see the site colour scheme with a simple clean layout. They can see a fixed navigation bar at the top, an introduction about myself, my profile picture and a “read more” dark grey background button with a black colour on hoover.
+    - On click of the buttons it takes the user to the about me page. From landing page the user can choose where they want to start.
+
+ - 	As a recruit I want to see the menu bar so that I can easily navigate the website.  
+
+    - On landing page the user can easily find a fixed navigation bar at the top so that they can navigate through the website. 
+    - On click of the logo (Fran) the user will always land on the home page. Whatever page the user is on, the navigation bar is fixed. sometimes as a user scrolls down the page sometimes they can change their mind and decide to go to a different page. 
+
+    - They can simply do so by just one click on the navigation bar to the page they want to go to. When the user hoovers on each menu item the text colour changes to a light grey colour. 
+    - When the user clicks on the read more button it leads them to the about me page.
+
+ - As a recruiter I want to see the candidate's bio, so I that can read more information about them.
+
+    - There are two ways here, from the landing page the user can click on the “read more” button and it will take them to the about me section. Another way the user can click “about me” link from the navigation bar. and cl it takes them to the about me section. 
+    - The user can see the site consistency of the colour scheme with a simple and neat layout. Below the navigation bar is a heading “why work with me” The icons are well spaced  with a brief description below each one.
+    - In this section the user get to know who I’m I. The user can easily scroll down the page to read my bio, as they continue reading they can click the LinkedIn link if they want to check out my profile, this will open in a separate tab. 
+
+  -	As a recruiter I want to see the developer’s education and history so that I can know their level of experience.  
+
+    - When the user is anywhere on the page can navigate to the portfolio by clicking on portfolio link from the navigation bar. Then can scroll down the page to where there is a heading “work history” and find timeline of my work history.
+    - For additional information about my education they can visit my LinkedIn profile on the about me page or they can simply download a copy of my cv from the footer to see my education level.
+
+ - As a recruiter I want to see the candidate's skills and any relevant competencies so that I can know if they’re right fit for the job.
+    - Go to the about me section scroll down the page and you will see  a heading “skills” and a sub heading “proficiency level” showing the developers skills. The user can see a clear proficiency level about the technologies the developer has worked with.
+    - This is shown in a scroll bar starting with the highest level, htlm5 at 80%, CSS at 70%, bootsrap at 60% and version control at 50%.
+
+    - Additionally the user can  find more information under the heading “about me” they can scroll up the page to read the developer’s bio to see if they have any relevant competencies for them to know the candidate can fit well for the job.
+
+
+- As a recruiter I want to see the developer’s projects so that I can see their work and how they can deliver.
+
+    - The user can be anywhere on the page and can navigate to the portfolio page where they will see a heading “ Below you can see the projects have been working on lately” The user will see a brief description about the projects and technologies used for each project.
+
+    -  The user can click the button “go to app” or “go to github” button to find out how the projects were delivered .They can also make use of the current portfolio site as additional information.
+
+- As a recruiter I want to download and print the Developer’s CV so that I can refer to it during the interview session.
+
+    - The user can be anywhere on the site, they have to scroll down to the footer section. There is heading “need  to download a printable version of my cv download it here” The user can click  the white download icon to start downloading.
+
+    - When the user mouse over the download icon if pops out a black background colour with an orange icon. The user can then decide to print or save the CV somewhere to have it ready during the interview.
+    - When the download is complete it will open in a word document in a separate page. 
+
+
+- As a recruiter I want to see the developer’s contact information so that I can contact them.  
+
+    - A clear labelled contact page is easy to find from the navigation bar.  On click of the link it takes the user to the form and they can fill it. 
+
+    - The form is validated so that the user has to fill in the correct information. If the user tries to submit an empty form or if the form is not filled correctly, when  they click “submit “ button an alert message pops up which say “please fill out this field” indicating the area to type on.
+
+
+- As a recruiter I want to see the developer's social media links so that I can connect with them.
+
+    - Again the user can be anywhere on the site, the user need to scroll down to the footer section  and they can see all the social media links the developer’s on. The developer is on five social links that is facebook, twitter, linkedin, Instagram and github.
+
+    - The user can choose which links they are more interest in. All the links have dark grey colour, on hoover they have an orange colour. All the links open in a new tab so that the user does not forget about the website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
