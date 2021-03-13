@@ -5,23 +5,23 @@
 
 Hi there!
 
-This project is about building a static front-end Portifolio Website. The goal of the application is to display my education, skills, work 
-history, to grow my professional network and also serve to as a personal brand.The key primarily user of the website is the recruiter. Although other people 
-can visit the site if catches their interest. The website allows potential recruiters to see my work, what I am capable of, what are my strengths 
+This project is about building a static front-end Portifolio Website. The goal of the application is to showcase my education, skills, work 
+history, to grow my professional network and also serve as my personal brand. Addition to that is to let others reach out if need arise. The key primarily user of the website are recruiters. Although other people 
+can visit the site if it catches their interest. The website allows potential recruiters to see my work, what I am capable of, what are my strengths 
 and work history. This gives them a better understanding of how I may fit in with their vision or existing company culture.
 This website also tries to address the convinience to share my work as more people are added to the interview panel.The website features home, about
 me page, portifolio and contact page.
 
-## UX
+### UX
 
-The key users for the site are recruiters, searching to recruit a suitable developer for the job available. Another goal is the ability to
-easily add and update new projects when completed,skills and acomplishement to my website to keep it up to date. The recruiter can always re-visit the website at a 
+The key users for the site are recruiters, searching to recruit a suitable developer for the job available. My website make me available, searchable and let's potential recruiters find me the moment they use the a serach engine or scanning through developer's application. Another goal is the ability to
+easily add and update new projects when completed,skills and acomplishement to my website to keep it up to date and recruiters can always re-visit the website at a 
 later stage to check what new skills, or projects are added to the website since they last visited. 
 
 ### Visitors to the website want to achive the following:
 * To easily navigate around the developer’s website.
 * To find out what skills set the developer has and the projects they have worked on.
-* To find out the developer’s work history.
+* To find out about the developer’s work history.
 * To read about the developer's bio.
 * To be able to re-visit the website to check if, is there anything new added to the developer’s website. 
 * To see if the developer is on any social media platforms where they can connect with them.
@@ -30,7 +30,7 @@ later stage to check what new skills, or projects are added to the website since
 ### This project is the best way to help them achieve this things because:
 
 * The website has a clear and simple navigation for the user to find what they are looking for intuitively.
-* The site itself shows my work and provides a tangiable proof of my skills and abilities, not just telling.
+* The site itself shows my work and provides a tangiable proof of my skills and abilities, it gives the user confidence and some trust not just telling.
 * The content is relevant and on point.
 
 ### Users stories
@@ -44,14 +44,14 @@ later stage to check what new skills, or projects are added to the website since
 8. As a recruiter I want to see the developer’s contact information so that I can contact them.
 9. As a recruiter I want to see the developer's social media links so that I can connect with them.
 
-## DESIGN:
+### DESIGN:
 
  #### Color scheme
 
 - The main colors used: is green rgb(121,152,154) for both the navigation bar and footer background. For the buttons, a dark shade grey rgb(48, 54, 52) is used and a black color on hoover. For the cards a light gray color rgb(211,211,211) is used.
 Social links a dark shade grey rgb(48, 54, 52) is used with a orange color when hoovered.
 
-### Typography
+#### Typography
 - Two main fonts are used, the first one is the Oswald fonts which is used in all the headings and the navigation bar.The second font is Lato, which is used in the paragraph content along with Sans Serif
 as a fall back font, this means for some resons if Lato fails to load the Sans Serif will load up to back the failed font. The same idea
 also applies with Oswald where Sans Serif is used as a fall back font.
@@ -59,7 +59,7 @@ also applies with Oswald where Sans Serif is used as a fall back font.
 #### Imagery
 - My profile picture.
 
-## Wireframes:
+### Wireframes:
 
 ##### MOBILE
 * [home](wireframes/mob-home.jpg)
@@ -84,7 +84,7 @@ also applies with Oswald where Sans Serif is used as a fall back font.
 ### Features:
 
 All the four pages features a fixed responsive navigation bar at the top with a logo on the left (Fran). You can click to go to any of the four
-pages, whether the user is on home page, about me, portfolio or contact page, it doesn' matter what page the user is on. The site is easy to 
+pages, whether the user is on home page, about me, portfolio or contact page, it doesn't matter what page the user is on. The site is easy to 
 navigate. The four pages have the same footer where the user can see the download cv icon, copy right information and social links, on click of
 each link, a new tab is open with the relevant social media homepage.
 
@@ -196,8 +196,8 @@ on.
 
 ## Features left to implement
 
-- To fix the broken code and finish the Library managent system so that the user can navigate through the site and see what it does and how it does it.
-- To build a blog and link it to my portfolio site and showcase my passion for technology, educate and inspire others.
+- To fix and complete the broken code about the Library managent system so that the user can see how the actual webiste looks like. The user can then navigate through the site and see what it does and how it does it.
+- To include a blog and write about insights, experiences and my passion for technology, things which will add value to my website and attract new vistors.
 
 ## Technologies used
 
@@ -263,7 +263,7 @@ on.
 
     - Was used to see how the website looks across a few different viewports. For example desktop, laptop, tablet and mobile. 
 
-### Testing
+## Testing
 
 Find testing of the site [here](TESTING.md) 
 
@@ -359,14 +359,14 @@ Error detected
 
 
 
-### SITE RESPOSIVENESS:
+### Responsiveness of the website:
 
 - Chrome Developer tools and AM I Reponsive was used to test the responsiveness of the webiste on different device screen sizes.
 
 <p align="center"><img width="1080" height="300" src="readme-images/responsive.jpg"></p>
 <p align="center"><img width="1080" height="300" src="readme-images/url.jpg"></p>
 
-##### NOTE BEFORE: 
+###### NOTE BEFORE: 
 
 - The website is responsive on all devices. Images and links work as expected.
 
@@ -393,7 +393,7 @@ we only imported one font style.
 I still have problems with the footer. I gave font color of white to copy right and to download cv for some reason it is not taking any effect. I thought I might have overriden some style.
 
 
-### Bugs to be fixed
+#### Bugs to be fixed
 
 
 ### Deployment
