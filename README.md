@@ -30,8 +30,10 @@ later stage to check what new skills, or projects are added to the website since
 ### This project is the best way to help them achieve this things because:
 
 * The website has a clear and simple navigation for the user to find what they are looking for intuitively.
+* The website has a fixed navigation bar at the top and the user can easily choose to go to another page regardless of the current page they are on.
 * The site itself shows my work and provides a tangiable proof of my skills and abilities, it gives the user confidence and some trust not just telling.
 * The content is relevant and on point.
+* All the links open in a new tab and the user will not forget about my website. They can easily go back when they close the new tab that is open.
 
 ### Users stories
 1. As a recruiter I want to see a Developer's portfolio site so that I can short list developer’s for an interview.
@@ -418,7 +420,7 @@ To clone this project from GitHub
 
 ### Credits
 
-All the text from the website is personal to me.
+The text in the website is my own.
 
 In the "about me" page, the web icons and description was coppied from [findmatthew.com](http://findmatthew.com/)
 
