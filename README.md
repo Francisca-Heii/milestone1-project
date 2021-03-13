@@ -6,23 +6,26 @@
 Hi there!
 
 This project is about building a static front-end Portifolio Website. The goal of the application is to display my education, skills, work 
-history, to grow my network and also serve as a personal brand.The key primarily user of the website is the recruiter. Although other people 
+history, to grow my professional network and also serve to as a personal brand.The key primarily user of the website is the recruiter. Although other people 
 can visit the site if catches their interest. The website allows potential recruiters to see my work, what I am capable of, what are my strengths 
 and work history. This gives them a better understanding of how I may fit in with their vision or existing company culture.
-This website also tries to address the convinience to share my work as more people are added to the interview panel.The website features about
+This website also tries to address the convinience to share my work as more people are added to the interview panel.The website features home, about
 me page, portifolio and contact page.
 
 ## UX
 
-The key users for the site is the employer, searching to recruit a suitable candiate for the job available. Another goal is the ability to
-easily add and update new projects when completed,skills and acomplishement to keep the site up to date. The recruiter can always re-visit the website at a 
+The key users for the site are recruiters, searching to recruit a suitable developer for the job available. Another goal is the ability to
+easily add and update new projects when completed,skills and acomplishement to my website to keep it up to date. The recruiter can always re-visit the website at a 
 later stage to check what new skills, or projects are added to the website since they last visited. 
 
 ### Visitors to the website want to achive the following:
-* Search the candinadtes with the right skill set for the job available.
-* To short list the relevant candinadtes for an interview.
-* To be able to re-visit the website to check what the candinate have been up to.
-* How to contact the candiate if they need to.
+* To easily navigate around the developer’s website.
+* To find out what skills set the developer has and the projects they have worked on.
+* To find out the developer’s work history.
+* To read about the developer's bio.
+* To be able to re-visit the website to check if, is there anything new added to the developer’s website. 
+* To see if the developer is on any social media platforms where they can connect with them.
+* To contact the developer if they need to.
 
 ### This project is the best way to help them achieve this things because:
 
@@ -31,7 +34,7 @@ later stage to check what new skills, or projects are added to the website since
 * The content is relevant and on point.
 
 ### Users stories
-1. As a recruiter I want to see a Developer's portfolio site so that I can short list some developer’s for an interview.
+1. As a recruiter I want to see a Developer's portfolio site so that I can short list developer’s for an interview.
 2. As a recruit I want to see the menu bar so that I can easily navigate the website.
 3. As a recruiter I want to see the candidate's bio, so I that can read more information about them.
 4. As a recruiter I want to see the developer’s education and history so that I can know their level of experience.
@@ -45,14 +48,13 @@ later stage to check what new skills, or projects are added to the website since
 
  #### Color scheme
 
-- The main colors used is green rgb(121,152,154) for the navigation bar and footer background. A dark shade grey rgb(48, 54, 52) for the button with a black color when hoover. For the card a light gray color rgb(211,211,211) is used.
-Social links a dark shade grey rgb(48, 54, 52) is used with a orange color when hoover. 
+- The main colors used: is green rgb(121,152,154) for both the navigation bar and footer background. For the buttons, a dark shade grey rgb(48, 54, 52) is used and a black color on hoover. For the cards a light gray color rgb(211,211,211) is used.
+Social links a dark shade grey rgb(48, 54, 52) is used with a orange color when hoovered.
 
 ### Typography
-- Two main fonts are used, the first one is the Oswald fonts which is used in headings and the navigation bar.The second font is Lato, which is used in the paragraph content along with Sans Serif
+- Two main fonts are used, the first one is the Oswald fonts which is used in all the headings and the navigation bar.The second font is Lato, which is used in the paragraph content along with Sans Serif
 as a fall back font, this means for some resons if Lato fails to load the Sans Serif will load up to back the failed font. The same idea
-also applies with Oswald. Problem which can arise from this it could be that, the fonts is not loaded properly or issues with the time it takes
-for the font to load there are actually various factors to this.
+also applies with Oswald where Sans Serif is used as a fall back font.
 
 #### Imagery
 - My profile picture.
@@ -87,8 +89,8 @@ navigate. The four pages have the same footer where the user can see the downloa
 each link, a new tab is open with the relevant social media homepage.
 
 #### [home.html](index.html)
-At the top of the page is a navigation bar with menu items on the right, and a logo on the left, when the page is viewed on Desktop and medium devices. When viewed on mobile devices at the top of the
-page is a hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
+At the top of the page is a navigation bar with menu items on the right, and a logo on the left. This shows when the site is viewed on desktop, laptop and medium devices. When viewed on mobile devices at the top of the
+page is a collapsable hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
  The logo is clikable, when that ocuurs it brings the user to the home page.
 
 
@@ -97,30 +99,30 @@ page is a hambuger menu and a log (Fran) on the left.On click  of the hambuger m
 Once the user hoovers over the button it goes black. 
 
 At the bottom of the page is a clean, simple footer with a heading "need a printable version of my cv?" and a download here icon.When the user hoover over the download
-icon a black backround color pops up with an orange color on the icon. When the user clicks the download icon it start downloading the cv and opens in a word document in a new tab.  
+icon a black background color pops up with an orange color on the icons. On click of the download icon, it start downloading the cv and opens it in a word document in a new tab.  
 
-The user can then choose to print it out or save it for later use. In the middle is copy right information lastly social links with a black background. The user can see all the five social media links I'm on, when
-hoover on each of the links it goes orange,once link is clicked it opens my social media account in a new tab. The user can close the social media page and when they do that they remain on the previous page they where
+The user can then choose to print it out or save it for later use. In the middle is copy right information, lastly are social media links with a black background. The user can see all the five social media links the develpoer is on, when
+hoover on each of the links it goes orange,once the link is clicked it opens developer’s social media account in a new tab. The user can close the social media page and when they do that they still remain on the website and on the previous page they where
 on.
 
 #### [about.html](about.html)
 
-At the top of the page is a navigation bar with menu items on the right, and a logo on the left, when the page is viewed on Desktop and medium devices. When viewed on mobile devices at the top of the
-page is a hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
+At the top of the page is a navigation bar with menu items on the right, and a logo on the left. This shows when the site is viewed on desktop, laptop and medium devices. When viewed on mobile devices at the top of the
+page is a collapsable hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
 The logo is clikable, when that ocuurs it brings the user to the home page.
 
-Below the navigation bar is a heading “Why work with me”. Below that the user can see three blue background icons with text below them. The text is
-meaningful, is to help communicate the concept of the icons in relation to my website so that the users can easily understand the meaning behind the three icons.
+Below the navigation bar is a heading “Why work with me”. Below that the user can see three blue background web icons with text below them. The text is
+meaningful, it also helps to communicate the concept of the icons in relation to my website so that the users can clearly get the meaning behind each web icon.
 
-The first icon “fast” symbolise, fast load times and lag free interaction which are my highest priority when building applications.  The second icon is “responsive”, 
-showing that I keep in mind my layouts to work on any device, big or small. The third icon “intuitive”, which means when a user land on my site they know exactly what to do, 
-they can easily find what they want.
+The first icon “fast” symbolise, fast load times and lag free interaction which are my highest priority when building applications. The second icon is “responsive”, 
+explaining that I keep in mind my layouts to work on any device, big or small. The third icon “intuitive”, which means when a user land on my site they know exactly what to do, 
+they can easily find what they want in a staright forward manner.
 
 The next section is a heading “About me” below that they are four short paragraphs about myself and my history. This gives the user a brief idea who am I, so that they can 
-get an idea of my personality. On the last paragraph there is a link to my linkedin profile. When the user hoovers over the link a blue underline pops up. When the link is clicked
-it opens my linkedin profile in a new page so that the user can see more information they want to see about myself.The user can close the linkedin page to return to the website.
+get an idea of who really I am and how I can fit in, in an organisation. On the last paragraph there is a link to my linkedin profile. When the user hoovers over the link a blue underline pops up. When the link is clicked
+it opens my linkedin profile in a new page so that the user can find out more information.The user can close the linkedin page to return to the website.
 
-The next section is a heading “Skills”. The user can clearly see my proficiency level.
+The next section is a heading “Skills”and the user can see clearly defined proficiency level that I have.
 
 - HTML5 with a red backround color is 80% 
 
@@ -130,72 +132,72 @@ The next section is a heading “Skills”. The user can clearly see my proficie
 
 - Version control a yellow background color is 50%
 
-This gives the user a picture on the proficiency level I have working on different technologies so that they can have a certain amount of confidence in me.
+This gives the user a clear picture on the proficiency level I have working on different technologies so that they can have a certain amount of confidence in me.
 
 At the bottom of the page is a clean, simple footer with a heading "need a printable version of my cv?" and a download here icon.When the user hoover over the download
-icon a black backround color pops up with an orange color on the icon. When the user clicks the download icon it start downloading the cv and opens in a word document in a new tab.  
+icon a black background color pops up with an orange color on the icons. On click of the download icon, it start downloading the cv and opens it in a word document in a new tab.  
 
-The user can then choose to print it out or save it for later use. In the middle is copy right information lastly social links with a black background. The user can see all the five social media links I'm on, when
-hoover on each of the links it goes orange,once link is clicked it opens my social media account in a new tab. The user can close the social media page and when they do that they remain on the previous page they where
+The user can then choose to print it out or save it for later use. In the middle is copy right information, lastly are social media links with a black background. The user can see all the five social media links the develpoer is on, when
+hoover on each of the links it goes orange,once the link is clicked it opens developer’s social media account in a new tab. The user can close the social media page and when they do that they still remain on the website and on the previous page they where
 on.
 
 #### [portfolio.html](portfolio.html)
 
-At the top of the page is a navigation bar with menu items on the right, and a logo on the left, when the page is viewed on Desktop and medium devices. When viewed on mobile devices at the top of the
-page is a hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
+At the top of the page is a navigation bar with menu items on the right, and a logo on the left. This shows when the site is viewed on desktop, laptop and medium devices. When viewed on mobile devices at the top of the
+page is a collapsable hambuger menu and a log (Fran) on the left.On click of the hambuger menu the user can see a list of the menu items and they can click on each for information.
 The logo is clikable, when that ocuurs it brings the user to the home page.
 
-At the top is a heading title “ Below you can find some of the project I have been working on lately”. Below the heading is two images about the projects I have worked on lately.
-On the left, is a Library management system image and below the image is a heading “Distributed system. Below that is a brief paragraph to explain to the user what is a “Distributed system and the benefits it brings in an organisation so that
-the user can understand what is the main purpose of the project which is to solve a problem in an organisation.
+At the top is a heading title “ Below you can find some of the project I have been working on lately”. Below the heading are two images about the projects I have worked on lately.
+On the left, is a Library management system project image and below the image is a heading “Distributed system. Below that is a brief paragraph to explain to the user what is a “Distributed system Library management and the benefits it brings in an organisation so that
+the user can understand what is the main purpose of the project which is to solve various problems in lagre to medium organisations.
 
-Below the paragraph is a heading “Technology” below that is an exaplanation on technologies used to build the application. Then next is a button indicating go to app. When the user hovers over the button it goes black and when clicked it opens into a new tab.
-Currently the website is being re-developed and it will be difficult for the user to understand what is going on. The user can close the tab, when they do that they remain right at the previous position on the portfolio page where they were at before they clicked the button.
+Below the paragraph is a heading “Technology” below that is an exaplanation on technologies used to build the application. Then next is a button indicating go to app. When the user hovers over the button it goes black and when clicked it opens into a new tab and the user lands right on the Library management system website.
+Currently the website is being re-developed and it will be difficult for the user to understand what is going on. The user can close the tab, when they do that they remain right at the previous page they were on before.
 
-On the right hand side, the user can see the second image about Online food delivery. Below the image is a heading “Online food delivery”, below that is a brief paragraph to explain to the user what the application is all about so that the user can understand what it does, how it works and
-who are the targeted users. Below the paragraph is a heading “Technology” below that is a paragraph explaining the technologies used to develop the application so that the user can know them.  PHP was used for logic in backend, MySQL to develop a database, Bootstrap, HTML5 and CSS3
+On the right hand side, the user can see the second project image about Online food delivery webiste. Below the image is a heading “Online food delivery”, below that is a brief paragraph to explain to the user what the application is all about so that the user can understand what it does, how it works and
+who are the targeted users. Below the paragraph is a heading “Technology” below that is a paragraph explaining the technologies used to develop the application so that the user can know them. PHP was used for logic in backend, MySQL to develop a database, Bootstrap, HTML5 and CSS3
 was used for front end development.
 
-Then next is a button indicating go to app, when user hovers over the button goes black and when clicked it opens into a new tab and lands on the home page.The user can navigate the food fun website, can place order or track order.
-If the user has a restaurant and want to sell their food items, they have to be registered first. The user can simply click on “resturants” on the navigation bar and follow the steps. When the user close the tab they remain on the portfolio page at the previous position they were before and 
-they can continue to navigate the site. 
+Then next are two dark gray buttons side by side. One indicating "go to app" another one "go to github". Go to app button, when the user hovers over the button, it goes black and when clicked it opens into a new tab and the user lands on online delivery webiste.The user can navigate the food fun website, can place order or track order.
+If the user has a restaurant and want to sell their food items, they have to be registered first. The user can simply click on “resturants” on the navigation bar and follow the steps. When the user decide to close the tab, they will still remain on the portfolio page where they were at the previously and 
+they can continue to navigate the website. Then when user hovers over the button, "go to git hub" the button goes black and when clicked it takes the user to github to the repository where the project resides.
 
 The next section is the heading work history with three timeline sections showing the year when the develpoer started work , the role played and nature of duties. The user can have an idea about the level of experience the develop has so that the recruiter can decide if the 
 developer is good fit for the job or not.
 
 At the bottom of the page is a clean, simple footer with a heading "need a printable version of my cv?" and a download here icon.When the user hoover over the download
-icon a black backround color pops up with an orange color on the icon. When the user clicks the download icon it start downloading the cv and opens in a word document in a new tab.  
+icon a black background color pops up with an orange color on the icons. On click of the download icon, it start downloading the cv and opens it in a word document in a new tab.  
 
-The user can then choose to print it out or save it for later use. In the middle is copy right information lastly social links with a black background. The user can see all the five social media links I'm on, when
-hoover on each of the links it goes orange,once link is clicked it opens my social media account in a new tab. The user can close the social media page and when they do that they remain on the previous page they where
+The user can then choose to print it out or save it for later use. In the middle is copy right information, lastly are social media links with a black background. The user can see all the five social media links the develpoer is on, when
+hoover on each of the links it goes orange,once the link is clicked it opens developer’s social media account in a new tab. The user can close the social media page and when they do that they still remain on the website and on the previous page they where
 on.
 
 #### [contact.html](contact.html)
 
-At the top of the page is a navigation bar with menu items on the right, and a logo on the left, when the page is viewed on Desktop and medium devices. When viewed on mobile devices at the top of the
-page is a hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
+At the top of the page is a navigation bar with menu items on the right, and a logo on the left. This shows when the site is viewed on desktop, laptop and medium devices. When viewed on mobile devices at the top of the
+page is a collapsable hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
 The logo is clikable, when that ocuurs it brings the user to the home page.
 
 This page has a card with a background color of light gray. At the top is a heading that asks the user if they want to know more about the developer? Below that is a heading “contact me” and a 
-form below it. The form takes a user name, email and a message. When the user clicks any of the fields in a form a thick blue border pops up telling the user what is required in that particular so that 
+form below it. The form takes a user name, email and a message. When the user clicks any of the fields in a form a thick blue border pops up telling the user what is required in that particular place so that 
 they can tpye the information required in the relevant text box.
 
  The form is validated to make sure that the user fills all the sections before they click the submit button. If the user try to 
 skip any of the fields and click the submit button, they will get an alert message “please fill out this field” and they can go back and fill that particular field first. When the user clicks the submit button
- the form gets submitted successfuly. On the right hand side is the contact details which the user can use if the need to contact the developer for any other information. The user can chose to contact the developer
+ the form gets submitted successfuly. On the right hand side is the contact details which the user can use if the need to contact the developer for any other information if they dont want to use the form. The user can chose to contact the developer
  by email, phone number or filling out the form. 
 
- At the bottom of the page is a clean, simple footer with a heading "need a printable version of my cv?" and a download here icon.When the user hoover over the download
-icon a black backround color pops up with an orange color on the icon. When the user clicks the download icon it start downloading the cv and opens in a word document in a new tab.  
+At the bottom of the page is a clean, simple footer with a heading "need a printable version of my cv?" and a download here icon.When the user hoover over the download
+icon a black background color pops up with an orange color on the icons. On click of the download icon, it start downloading the cv and opens it in a word document in a new tab.  
 
-The user can then choose to print it out or save it for later use. In the middle is copy right information lastly social links with a black background. The user can see all the five social media links I'm on, when
-hoover on each of the links it goes orange,once link is clicked it opens my social media account in a new tab. The user can close the social media page and when they do that they remain on the previous page they where
-on. 
+The user can then choose to print it out or save it for later use. In the middle is copy right information, lastly are social media links with a black background. The user can see all the five social media links the develpoer is on, when
+hoover on each of the links it goes orange,once the link is clicked it opens developer’s social media account in a new tab. The user can close the social media page and when they do that they still remain on the website and on the previous page they where
+on.
 
 ## Features left to implement
 
-- To re-develop and finish the Library managent system so that the user can navigate through the site and see what it does and how it does it.
-- To build a block and link it to my portfolio site and showcase my passion for technology.
+- To fix the broken code and finish the Library managent system so that the user can navigate through the site and see what it does and how it does it.
+- To build a blog and link it to my portfolio site and showcase my passion for technology, educate and inspire others.
 
 ## Technologies used
 
