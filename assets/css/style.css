@@ -409,7 +409,7 @@ textarea.ng-invalid.ng-touched {
 /*-----------------------------------------Contact */
 /*-----------------------------------------Footer */
 footer {
-    background-color: #79989a ; 
+    background-color: #79989a !important; 
     color: #fafafa;
     min-height: 120px;
     margin: 0;
