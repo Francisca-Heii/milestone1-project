@@ -416,7 +416,22 @@ To clone this project from GitHub
 
 ### Credits
 
+All the text from the website is personal to me.
 
+In the "about me" page, the web icons and description was coppied from [findmatthew.com](http://findmatthew.com/)
+
+W3Schools was one on the main site for reference [W3Schools](https://www.w3schools.com/)
+
+To structure the website I got ideas here [Bootstrap Grid System](https://www.youtube.com/watch?v=GDwWmrpCa30)
+
+
+#### Code
+Code for the footer was coppied from the mini resume project we 
+did in the previous User Centric Frontend Development Module and modified it slightly.
+
+Navigation code I took it from [Academind](https://www.youtube.com/watch?v=23bpce-5s8I) 
+
+For sticky navbar and hambuger menu to display code was taken from [stack overflow](https://stackoverflow.com/questions/28452235/make-a-nav-bar-stick/28452391#28452391)
 
 
 #### Acknowledgments
