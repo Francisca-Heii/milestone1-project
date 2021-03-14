@@ -388,11 +388,11 @@ very difficult to read when the website is viewed on Ipad pro.
 My profile photo was a little bit challenging to have it displaying properly on small devices. This was fixed by adding a class img-responsive to the image tag and the 
 removed the width of the image from the stylesheet.
 
-I faced an issue with fonts imported in the stylesheet. The first improted the Oswald fonts, somewhere along the line, I tried to use Lato for the paragraphs however it didn't seem to work. 
-To fix that I imported Lato fonts in the stylesheet and it worked. Moreover I still don't understand why I had to import two fonts style since from the previous mini projects I did in the course
-we only imported one font style.
+I faced issue with fonts imported in the stylesheet. The first import was the Oswald fonts, then along the line I tried to use Lato for the paragraphs however it didn't seem to work. 
+To fix that I imported Lato fonts in the stylesheet and it worked. This means I have imported two fonts styles instead of using one as it was demontsrated in the love running and resume project, however I don't understand why I 
+could not work with one font style. 
  
-I still have problems with the footer. I gave font color of white to copy right and to download cv for some reason it is not taking any effect. I thought I might have overriden some style.
+
 
 
 #### Bugs to be fixed
@@ -417,7 +417,7 @@ Go to GitHub
 Under the repository's name, click **clone or download**
 In the **clone with HTTP** section copy the url provided
 Open coomand line and type "git bash"
-Then change the current working directory to desktop
+Then change the current working directory to desktop then folder
 type git "clone" and then paste the URL coppied from github
 Press enter and the local cone is Created in the folder "mile-stone-pro" on you desktop.
 
