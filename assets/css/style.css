@@ -63,7 +63,9 @@ p .inline-block {
     overflow: hidden;
     transform: translateY(-20%);   
 }
-
+.btn-padding{
+padding-top: 30px !important;
+}
 
 .anim-typewrite {
     animation: typewriter 4s steps(44) 1s 1 normal both, blinkTextCursor 500ms steps(44) infinite normal;
@@ -163,7 +165,7 @@ p .btn-large {
 p .btn {
     font-size: 20px !important;
     font-size: 1.175rem;
-    padding: 22px 35px;
+    padding: 22px 15px;
 }
 
 p a:hover {
@@ -409,7 +411,7 @@ textarea.ng-invalid.ng-touched {
 /*-----------------------------------------Contact */
 /*-----------------------------------------Footer */
 footer {
-    background-color: #79989a !important; 
+    background-color: #79989a; 
     color: #fafafa;
     min-height: 120px;
     margin: 0;
