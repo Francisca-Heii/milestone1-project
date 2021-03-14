@@ -385,12 +385,20 @@ very difficult to read when the website is viewed on Ipad pro.
 
 
 #### Bugs discovered 
+
+When I added the navigation bar the hamburger was not showing on mobile device and I fixed it with reference from stack overflow.
+
 My profile photo was a little bit challenging to have it displaying properly on small devices. This was fixed by adding a class img-responsive to the image tag and the 
 removed the width of the image from the stylesheet.
 
 I faced issue with fonts imported in the stylesheet. The first import was the Oswald fonts, then along the line I tried to use Lato for the paragraphs however it didn't seem to work. 
 To fix that I imported Lato fonts in the stylesheet and it worked. This means I have imported two fonts styles instead of using one as it was demontsrated in the love running and resume project, however I don't understand why I 
 could not work with one font style. 
+
+In the portfolio page I had issues with the "go to app" and "go to github" buttons. They were stacking on top of one another when viewed on mobile deivice.
+To fix that I used "&nbsp" and added padding of 30 px at the top.
+
+
  
 
 
