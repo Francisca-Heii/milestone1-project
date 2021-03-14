@@ -410,7 +410,14 @@ I still have problems with the footer. I gave font color of white to copy right 
 
 
 #### How to run this project locally
+
 To clone this project from GitHub
+Under the repository's name, click **clone or download**
+In the **clone with HTTP** section copy the url provided
+Open coomand line  and type "git bash"
+Then change the current directory working directory to desktop
+type git "clone" and then paste the URL coppied from github
+Press enter and the local cone is Created in the folder on you desktop.
 
 
 
