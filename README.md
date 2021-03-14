@@ -295,7 +295,7 @@ No error detected
 5. style.css results after validation
 <p align="center"><img width="450" height="300" src="readme-images/style.jpg"></p>
 
-Error detected
+Error detected: Fixed by removing "px" on font-weight 
 
 ### User stories testing
 
