@@ -12,7 +12,7 @@ and work history. This gives them a better understanding of how I may fit in wit
 This website also tries to address the convinience to share my work as more people are added to the interview panel.The website features home, about
 me page, portifolio and contact page.
 
-### UX
+## UX
 
 The key users for the site are recruiters, searching to recruit a suitable developer for the job available. My website make me available, searchable and let's potential recruiters find me the moment they use the a serach engine or scanning through developer's application. Another goal is the ability to
 easily add and update new projects when completed,skills and acomplishement to my website to keep it up to date and recruiters can always re-visit the website at a 
@@ -46,7 +46,7 @@ later stage to check what new skills, or projects are added to the website since
 8. As a recruiter I want to see the developer’s contact information so that I can contact them.
 9. As a recruiter I want to see the developer's social media links so that I can connect with them.
 
-### DESIGN:
+#### DESIGN:
 
  #### Color scheme
 
@@ -61,7 +61,7 @@ also applies with Oswald where Sans Serif is used as a fall back font.
 #### Imagery
 - My profile picture.
 
-### Wireframes:
+#### Wireframes:
 
 ##### MOBILE
 * [home](wireframes/mob-home.jpg)
@@ -83,7 +83,7 @@ also applies with Oswald where Sans Serif is used as a fall back font.
 * [portfolio](wireframes/portfolio-desk.jpg)
 * [contact](wireframes/desktop-conatc.jpg)
 
-### Features:
+## Features:
 
 All the four pages features a fixed responsive navigation bar at the top with a logo on the left (Fran). You can click to go to any of the four
 pages, whether the user is on home page, about me, portfolio or contact page, it doesn't matter what page the user is on. The site is easy to 
@@ -196,7 +196,7 @@ The user can then choose to print it out or save it for later use. In the middle
 hoover on each of the links it goes orange,once the link is clicked it opens developer’s social media account in a new tab. The user can close the social media page and when they do that they still remain on the website and on the previous page they where
 on.
 
-## Features left to implement
+### Features left to implement
 
 - To fix and complete the broken code about the Library managent system so that the user can see how the actual webiste looks like. The user can then navigate through the site and see what it does and how it does it.
 - To include a blog and write about insights, experiences and my passion for technology, things which will add value to my website and attract new vistors.
@@ -267,7 +267,6 @@ on.
 
 ## Testing
 
-Find testing of the site [here](TESTING.md) 
 
 Used [W3C HTML Validator](http://ami.responsivedesign.is/) 
 
@@ -297,7 +296,7 @@ No error detected
 
 Error detected: Fixed by removing "px" on font-weight 
 
-### User stories testing
+#### User stories testing
 
 - As a recruiter I want to see a Developer's portfolio site so that I can short list some developer’s for an interview.
 
@@ -361,14 +360,14 @@ Error detected: Fixed by removing "px" on font-weight
 
 
 
-### Responsiveness of the website:
+#### Responsiveness of the website:
 
 - Chrome Developer tools and AM I Reponsive was used to test the responsiveness of the webiste on different device screen sizes.
 
 <p align="center"><img width="1080" height="300" src="readme-images/responsive.jpg"></p>
 <p align="center"><img width="1080" height="300" src="readme-images/url.jpg"></p>
 
-###### NOTE BEFORE: 
+####### NOTE BEFORE: 
 
 - The website is responsive on all devices. Images and links work as expected.
 
@@ -378,7 +377,7 @@ Error detected: Fixed by removing "px" on font-weight
 <p align="center"><img width="900" height="150" src="readme-images/browesercom.jpg"></p>
 
 
-##### NOTE BEFORE: 
+###### NOTE BEFORE: 
 
 - The website is compatable on most browsers. This was tested on Chrome, Opera, Firefox and Microsoft edge browsers.Although in Opera and Edge the text is 
 very difficult to read when the website is viewed on Ipad pro. When the website is viewed on Oprea iphone5 /SE the "go to app" and "go to github" buttons to the Library
@@ -400,15 +399,15 @@ In the portfolio page I had issues with the "go to app" and "go to github" butto
 To fix that I used "&nbsp" and added padding of 30 px at the top.
 
 
-#### Bugs to be fixed
+### Bugs to be fixed
 
 When the website is viewed on Oprea iphone5 /SE the "go to app" and "go to github" buttons to the Library
 management sytem are still stacking on top of one another. This is an issue to be fixed.
 
 
-### Deployment
+## Deployment
 
-#### Steps taken to deploy My First Milestone project remotelt to GitHub pages:
+### Steps taken to deploy My First Milestone project remotelt to GitHub pages:
 1. You should be loged in on GitHub
 2. Go to settings
 3. Scroll down to GitHub pages section
@@ -417,7 +416,7 @@ management sytem are still stacking on top of one another. This is an issue to b
 6. You will see where it says "your site is published at" such such a link. The site is deployed.
 
 
-#### How to run this project locally
+### How to run this project locally
 
 To clone this project from GitHub
 Create a folder named "mile-stone-pro" on desktop
@@ -431,7 +430,7 @@ Press enter and the local cone is Created in the folder "mile-stone-pro" on you 
 
 
 
-### Credits
+## Credits
 
 The text in the website is my own.
 
@@ -442,7 +441,7 @@ W3Schools was one on the main site for reference [W3Schools](https://www.w3schoo
 To structure the website I got ideas here [Bootstrap Grid System](https://www.youtube.com/watch?v=GDwWmrpCa30)
 
 
-#### Code
+### Code
 Code for the footer was coppied from the mini resume project we 
 did in the previous User Centric Frontend Development Module and modified it slightly.
 
@@ -451,7 +450,7 @@ Navigation code I took it from [Academind](https://www.youtube.com/watch?v=23bpc
 For sticky navbar and hambuger menu to display code was taken from [stack overflow](https://stackoverflow.com/questions/28452235/make-a-nav-bar-stick/28452391#28452391)
 
 
-#### Acknowledgments
+## Acknowledgments
 
 
 
