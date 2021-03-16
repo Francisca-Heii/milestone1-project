@@ -1,7 +1,8 @@
-##  Milestone Project 1
-### Created a Pesrsonal Portifolio Website
+#  Milestone Project 1
 
-[Check out my deployed website](https://francisca-heii.github.io/milestone1-project/)
+## Created a Pesrsonal Portifolio Website
+
+Check out my deployed website: [here](https://francisca-heii.github.io/milestone1-project/)
 
 Hi there!
 
@@ -12,13 +13,15 @@ and work history. This gives them a better understanding of how I may fit in wit
 This website also tries to address the convinience to share my work as more people are added to the interview panel.The website features home, about
 me page, portifolio and contact page.
 
+---
+
 ## UX
 
 The key users for the site are recruiters, searching to recruit a suitable developer for the job available. My website make me available, searchable and let's potential recruiters find me the moment they use the a serach engine or scanning through developer's application. Another goal is the ability to
 easily add and update new projects when completed,skills and acomplishement to my website to keep it up to date and recruiters can always re-visit the website at a 
 later stage to check what new skills, or projects are added to the website since they last visited. 
 
-### Visitors to the website want to achive the following:
+#### Visitors to the website want to achive the following:
 * To easily navigate around the developer’s website.
 * To find out what skills set the developer has and the projects they have worked on.
 * To find out about the developer’s work history.
@@ -27,7 +30,7 @@ later stage to check what new skills, or projects are added to the website since
 * To see if the developer is on any social media platforms where they can connect with them.
 * To contact the developer if they need to.
 
-### This project is the best way to help them achieve this things because:
+#### This project is the best way to help them achieve this things because:
 
 * The website has a clear and simple navigation for the user to find what they are looking for intuitively.
 * The website has a fixed navigation bar at the top and the user can easily choose to go to another page regardless of the current page they are on.
@@ -35,7 +38,7 @@ later stage to check what new skills, or projects are added to the website since
 * The content is relevant and on point.
 * All the links open in a new tab and the user will not forget about my website. They can easily go back when they close the new tab that is open.
 
-### Users stories
+#### Users stories
 1. As a recruiter I want to see a Developer's portfolio site so that I can short list developer’s for an interview.
 2. As a recruit I want to see the menu bar so that I can easily navigate the website.
 3. As a recruiter I want to see the candidate's bio, so I that can read more information about them.
@@ -46,7 +49,9 @@ later stage to check what new skills, or projects are added to the website since
 8. As a recruiter I want to see the developer’s contact information so that I can contact them.
 9. As a recruiter I want to see the developer's social media links so that I can connect with them.
 
-#### DESIGN:
+---
+
+### DESIGN:
 
  #### Color scheme
 
@@ -82,6 +87,8 @@ also applies with Oswald where Sans Serif is used as a fall back font.
 * [about](wireframes/deskt-about.jpg)
 * [portfolio](wireframes/portfolio-desk.jpg)
 * [contact](wireframes/desktop-conatc.jpg)
+
+---
 
 ## Features:
 
@@ -196,10 +203,12 @@ The user can then choose to print it out or save it for later use. In the middle
 hoover on each of the links it goes orange,once the link is clicked it opens developer’s social media account in a new tab. The user can close the social media page and when they do that they still remain on the website and on the previous page they where
 on.
 
-### Features left to implement
+#### Features left to implement
 
 - To fix and complete the broken code about the Library managent system so that the user can see how the actual webiste looks like. The user can then navigate through the site and see what it does and how it does it.
 - To include a blog and write about insights, experiences and my passion for technology, things which will add value to my website and attract new vistors.
+
+---
 
 ## Technologies used
 
@@ -265,6 +274,8 @@ on.
 
     - Was used to see how the website looks across a few different viewports. For example desktop, laptop, tablet and mobile. 
 
+    ---
+
 ## Testing
 
 
@@ -292,9 +303,8 @@ No error detected
 No error detected
 
 5. style.css results after validation
-<p align="center"><img width="450" height="300" src="readme-images/style.jpg"></p>
+<p align="center"><img width="450" height="300" src="readme-images/style1.jpg"></p>
 
-Error detected: Fixed by removing "px" on font-weight 
 
 #### User stories testing
 
@@ -360,7 +370,7 @@ Error detected: Fixed by removing "px" on font-weight
 
 
 
-#### Responsiveness of the website:
+## Responsiveness of the website
 
 - Chrome Developer tools and AM I Reponsive was used to test the responsiveness of the webiste on different device screen sizes.
 
@@ -371,11 +381,9 @@ Error detected: Fixed by removing "px" on font-weight
 
 - The website is responsive on all devices. Images and links work as expected.
 
-
 #### Browser Compatability
 
 <p align="center"><img width="900" height="150" src="readme-images/browesercom.jpg"></p>
-
 
 ###### NOTE BEFORE: 
 
@@ -383,31 +391,34 @@ Error detected: Fixed by removing "px" on font-weight
 very difficult to read when the website is viewed on Ipad pro. When the website is viewed on Oprea iphone5 /SE the "go to app" and "go to github" buttons to the Library
 management sytem are still stacking on top of one another.
 
-
 #### Bugs discovered 
 
-When I added the navigation bar the hamburger menu was not showing on mobile device and I fixed it with reference from stack overflow.
+1. When I added the navigation bar the hamburger menu was not showing on mobile device and I fixed it with reference from stack overflow.
 
-My profile photo was a little bit challenging to have it displaying properly on small devices. This was fixed by adding a class img-responsive to the image tag and the 
+2. My profile photo was a little bit challenging to have it displaying properly on small devices. This was fixed by adding a class img-responsive to the image tag, then 
 removed the width of the image from the stylesheet.
 
-I faced issues with font styles imported in the stylesheet. The first import was the Oswald font style, then along the line I tried to use Lato for the paragraphs however it didn't seem to work. 
-To fix that I imported Lato fonts in the stylesheet and it worked. This means I have imported two font styles instead of using one as it was demontsrated in the love running and resume project. I don't understand why I 
-could not work with one font style. 
+3. I faced issues with font styles imported in the stylesheet. The first import was the Oswald font style, then along the line I tried to use Lato for the paragraphs however it didn't seem to work. 
+To fix that I imported Lato fonts in the stylesheet and it worked. This means I have imported two font styles instead of using one as it was demontsrated in the love running and resume project. I did't understand why I 
+could not work with one font style. Later when I was finished with the development process of the website, I wanted to change some of the text to look in a certain way. I ran into troubles again with the fonts. Some font
+styles apperead to be overriden by one another. It was quite a challenge to fix it until I said to myself "let me remove the imported Lato fonts and test the app again, thankfully it worked. 
 
-In the portfolio page I had issues with the "go to app" and "go to github" buttons. They were stacking on top of one another when viewed on mobile deivice.
+4. In the portfolio page I had issues with the "go to app" and "go to github" buttons. They were stacking on top of one another when viewed on mobile deivice.
 To fix that I used "&nbsp" and added padding of 30 px at the top.
 
+5. W3C CSS validator dectected an error: (font-weight 800px is not a font-weight value:800px). This was fixed by removing "px" on font-weight
 
-### Bugs to be fixed
+#### Bugs to be fixed
 
 When the website is viewed on Oprea iphone5 /SE the "go to app" and "go to github" buttons to the Library
 management sytem are still stacking on top of one another. This is an issue to be fixed.
 
+---
 
 ## Deployment
 
-### Steps taken to deploy My First Milestone project remotelt to GitHub pages:
+#### Steps taken to deploy My First Milestone project remotelt to GitHub pages
+
 1. You should be loged in on GitHub
 2. Go to settings
 3. Scroll down to GitHub pages section
@@ -416,41 +427,41 @@ management sytem are still stacking on top of one another. This is an issue to b
 6. You will see where it says "your site is published at" such such a link. The site is deployed.
 
 
-### How to run this project locally
+#### How to run this project locally
 
-To clone this project from GitHub
-Create a folder named "mile-stone-pro" on desktop
-Go to GitHub
-Under the repository's name, click **clone or download**
-In the **clone with HTTP** section copy the url provided
-Open coomand line and type "git bash"
-Then change the current working directory to desktop then folder
-type git "clone" and then paste the URL coppied from github
-Press enter and the local cone is Created in the folder "mile-stone-pro" on you desktop.
+- To clone this project from GitHub
+- Created a folder named "mile-stone-pro" on desktop
+- Go to GitHub
+- Under the repository's name, click **clone or download**
+- In the **clone with HTTP** section copy the url provided
+- Open the comand line and type "git bash"
+- Then change the current working directory to desktop then folder
+- type git "clone" and then paste the URL coppied from github
+- Press enter and the local cone is Created in the folder "mile-stone-pro" on you desktop.
 
-
+---
 
 ## Credits
 
-The text in the website is my own.
+- The text in the website is my own.
 
-In the "about me" page, the web icons and description was coppied from [findmatthew.com](http://findmatthew.com/)
+- In the "about me" page, the web icons and description was coppied from [findmatthew.com](http://findmatthew.com/)
 
-W3Schools was one on the main site for reference [W3Schools](https://www.w3schools.com/) and [stack overflow](https://stackoverflow.com/)
+- W3Schools was one on the main site for reference [W3Schools](https://www.w3schools.com/) and [stack overflow](https://stackoverflow.com/)
 
-To structure the website I got ideas here [Bootstrap Grid System](https://www.youtube.com/watch?v=GDwWmrpCa30)
+- To structure the website I got ideas here [Bootstrap Grid System](https://www.youtube.com/watch?v=GDwWmrpCa30)
 
 
-### Code
-Code for the footer was coppied from the mini resume project we 
+#### Code
+- Code for the footer was coppied from the mini resume project we 
 did in the previous User Centric Frontend Development Module and modified it slightly.
 
-Navigation code I took it from [Academind](https://www.youtube.com/watch?v=23bpce-5s8I) 
+- Navigation code I took it from [Academind](https://www.youtube.com/watch?v=23bpce-5s8I) 
 
-For sticky navbar and hambuger menu to display code was taken from [stack overflow](https://stackoverflow.com/questions/28452235/make-a-nav-bar-stick/28452391#28452391)
+- For sticky navbar and hambuger menu to display code was taken from [stack overflow](https://stackoverflow.com/questions/28452235/make-a-nav-bar-stick/28452391#28452391)
 
 
-## Acknowledgments
+### Acknowledgments
 
 
 
