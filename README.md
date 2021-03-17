@@ -55,7 +55,7 @@ later stage to check what new skills, or projects are added to the website since
 
  #### Color scheme
 
-- The main colors used: is green rgb(121,152,154) for both the navigation bar and footer background. For the buttons, a dark shade grey rgb(48, 54, 52) is used and a black color on hoover. For the cards a light gray color rgb(211,211,211) is used.
+- The main colors used: is green rgb(121,152,154) for both the navigation bar and footer background. For the buttons, a dark shade grey rgb(48, 54, 52) is used and a black color on hoover. For the cards a light gray color rgb(211,211,211) is used and the form takes up a #495057 color.
 Social links a dark shade grey rgb(48, 54, 52) is used with a orange color when hoovered.
 
 #### Typography
@@ -377,7 +377,7 @@ No error detected
 <p align="center"><img width="1080" height="300" src="readme-images/responsive.jpg"></p>
 <p align="center"><img width="1080" height="300" src="readme-images/url.jpg"></p>
 
-####### NOTE BEFORE: 
+###### NOTE BEFORE: 
 
 - The website is responsive on all devices. Images and links work as expected.
 
@@ -462,6 +462,16 @@ did in the previous User Centric Frontend Development Module and modified it sli
 
 
 ### Acknowledgments
+
+I would like to thank the following people who have helped me in my first milestone project: 
+
+My Supervisor Precious Ijege for his consistent support, guidance and encouragement.
+
+Tutor support especially Michael and Miklos they have been very helful and patient.
+
+ Code Institiute team who have been a great source of support and my fellow colleagues from slack community.
+ 
+To conclude I cannot forget to thank my family and friends for their unconditional support.
 
 
 
