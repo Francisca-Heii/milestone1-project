@@ -51,7 +51,8 @@ later stage to check what new skills, or projects are added to the website since
 
 #### User's journey:
 
-1. The user begins at the home page.The user begins at the home page
+1. The user begins at the home page.The user can see the navigation bar at the top of the page, greeting and my name below that followed by sliding text animation with background color
+    green, red and blue and a button to navigate to the about me page.
 
 <p align="center"><img width="550" height="300" src="readme-images/user-journey/hom.png"></p>
 
@@ -77,11 +78,6 @@ later stage to check what new skills, or projects are added to the website since
     or they can directly contact me my email or mobile phone. 
 
 <p align="center"><img width="550" height="300" src="readme-images/user-journey/form.png"></p>
-
-
-
-
-
 
 
 ---
@@ -133,14 +129,16 @@ navigate. The four pages have the same footer where the user can see the downloa
 each link, a new tab is open with the relevant social media homepage.
 
 #### [home.html](index.html)
-At the top of the page is a navigation bar with menu items on the right, and a logo on the left. This shows when the site is viewed on desktop, laptop and medium devices. When viewed on mobile devices at the top of the
+At the top of the page is a navigation bar with menu items on the right, and a logo on the left. This display when the site is viewed on desktop, laptop and medium devices. When viewed on mobile devices at the top of the
 page is a collapsable hambuger menu and a log (Fran) on the left.On click  of the hambuger menu the user can see a list of the menu items and they can click on each for information.
- The logo is clikable, when that ocuurs it brings the user to the home page.
+The logo is clikable, when that ocuurs it brings the user to the home page.
 
 
- This page has a heading "Hi there!", below that is a brief introduction about myself, my name and what I do. The user can see my profile picture sitting on the right.
- Below the introduction is a button "read more",when clicked it takes the user to to the about me page.
-Once the user hoovers over the button it goes black. 
+ This page sart with a paragraph "Hi there!", next to that is my name displayed in black and grey fadding animation. Then followed by a text slide bar showing a brief introduction about myself, what I do, my passion and key things that I consider during the software development process
+in order to develop a quality product as per the customer's needs and requirements. 
+
+Below the slide bar is a button "read more",when clicked it takes it takes the user to to the about me page. Once the user hoovers over the button it goes black.
+The user can see my profile picture sitting on the right.  
 
 At the bottom of the page is a clean, simple footer with a heading "need a printable version of my cv?" and a download here icon.When the user hoover over the download
 icon a black background color pops up with an orange color on the icons. On click of the download icon, it start downloading the cv and opens it in a word document in a new tab.  
