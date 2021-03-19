@@ -67,6 +67,7 @@ p .inline-block {
 padding-top: 30px !important;
 }
 
+/*
 .anim-typewrite {
     animation: typewriter 4s steps(44) 1s 1 normal both, blinkTextCursor 500ms steps(44) infinite normal;
 }
@@ -88,7 +89,128 @@ padding-top: 30px !important;
     to {
         border-right-color: transparent ;
     }
-}
+}*/
+
+ .animate-fading {
+     padding: 10px 5px 10px 15px;
+            animation: fading 10s infinite;
+        }
+
+        @keyframes fading {
+            0% {
+                opacity: 0.3
+            }
+
+            50% {
+                opacity: 1
+            }
+
+            100% {
+                opacity: 0.5
+            }
+        }
+
+        .animate-top {
+            padding: 10px 0px 5px;
+            font-size: 30px;
+            position: relative;
+            animation: animatetop 0.4s
+        }
+
+        @keyframes animatetop {
+            from {
+                top: -300px;
+                opacity: 0
+            }
+
+            to {
+                top: 0;
+                opacity: 1
+            }
+        }
+        .content {
+            height: 15vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .slider-wrapper {
+            font-size: 20px;
+            color: #aaa;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .slider {
+            height: 60px;
+            padding: 2px 5px;
+            overflow: hidden;
+        }
+
+            .slider div {
+                color: #fff;
+                height: 60px;
+                margin-bottom: 40px;
+                padding: 2px 15px;
+                text-align: center;
+                box-sizing: border-box;
+            }
+
+        .slider-text1 {
+            padding: 5px;
+            background:	#0000CD;
+            animation: slide 10s linear infinite;
+        }
+
+        .slider-text2 {
+            padding: 5px;
+            background: #FF0000;
+        }
+
+        .slider-text3 {
+            padding: 5px;
+            background: #008000;
+        }
+
+        @keyframes slide {
+            0% {
+                margin-top: -300px;
+            }
+
+            5% {
+                margin-top: -200px;
+            }
+
+            33% {
+                margin-top: -200px;
+            }
+
+            38% {
+                margin-top: -100px;
+            }
+
+            66% {
+                margin-top: -100px;
+            }
+
+            71% {
+                margin-top: 0px;
+            }
+
+            100% {
+                margin-top: 0px;
+            }
+        }
+
+        .home .btn-padding {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
 
 
 
