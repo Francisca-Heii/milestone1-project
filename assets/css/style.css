@@ -21,7 +21,7 @@
     position: sticky !important;   
 }
 
-    .navbar .nav-brand {
+ .navbar .nav-brand {
         color: #fff;
         font-size: 30px;
          font-weight: bolder;
@@ -29,13 +29,12 @@
         font-family: "Oswald", sans-serif;
     }
 
-        .navbar .nav-brand:hover {
+ .navbar .nav-brand:hover {
             color: #c7ccca;
         }
 
 
-
-    .navbar .nav-link {
+.navbar .nav-link {
         color: #fff;
         font-size: 30px;
         font-weight: bolder;
@@ -43,13 +42,15 @@
         font-family: "Oswald", sans-serif;
     }
 
-        .navbar .nav-link:hover {
+.navbar .nav-link:hover {
             color: #c7ccca;
         }
+
 
 p .inline-block {
     color: #fafafa !important;
 }
+
 
 .line-1 {
     position: relative;
@@ -63,33 +64,10 @@ p .inline-block {
     overflow: hidden;
     transform: translateY(-20%);   
 }
+
 .btn-padding{
 padding-top: 30px !important;
 }
-
-/*
-.anim-typewrite {
-    animation: typewriter 4s steps(44) 1s 1 normal both, blinkTextCursor 500ms steps(44) infinite normal;
-}
-
-@keyframes typewriter {
-    from {
-        width: 0;
-    }
-    to {
-        width: 24em;
-    }
-}
-
-@keyframes blinkTextCursor {
-    from {
-        border-right-color: rgba(255,255,255,.75);
-    }
-
-    to {
-        border-right-color: transparent ;
-    }
-}*/
 
  .animate-fading {
      padding: 10px 5px 10px 15px;
@@ -110,7 +88,7 @@ padding-top: 30px !important;
             }
         }
 
-        .animate-top {
+ .animate-top {
             padding: 10px 0px 5px;
             font-size: 30px;
             position: relative;
@@ -128,14 +106,14 @@ padding-top: 30px !important;
                 opacity: 1
             }
         }
-        .content {
+.content {
             height: 15vh;
             display: flex;
             align-items: center;
             justify-content: center;
         }
 
-        .slider-wrapper {
+.slider-wrapper {
             font-size: 20px;
             color: #aaa;
             font-weight: bold;
@@ -144,13 +122,13 @@ padding-top: 30px !important;
             justify-content: center;
         }
 
-        .slider {
+.slider {
             height: 60px;
             padding: 2px 5px;
             overflow: hidden;
         }
 
-            .slider div {
+ .slider div {
                 color: #fff;
                 height: 60px;
                 margin-bottom: 40px;
@@ -159,18 +137,18 @@ padding-top: 30px !important;
                 box-sizing: border-box;
             }
 
-        .slider-text1 {
+.slider-text1 {
             padding: 5px;
             background:	#0000CD;
             animation: slide 10s linear infinite;
         }
 
-        .slider-text2 {
+.slider-text2 {
             padding: 5px;
             background: #FF0000;
         }
 
-        .slider-text3 {
+ .slider-text3 {
             padding: 5px;
             background: #008000;
         }
@@ -205,14 +183,11 @@ padding-top: 30px !important;
             }
         }
 
-        .home .btn-padding {
+ .home .btn-padding {
             display: flex;
             align-items: center;
             justify-content: center;
         }
-
-
-
 
 /*-------------------------------------------------------Index page */
 body {
@@ -220,11 +195,7 @@ body {
     padding: 0;
     font-size: 18px;
     font-weight: normal;
-    font-family: "Lato", sans-serif ; 
-    
-    
-
-    
+    font-family: "Lato", sans-serif ;   
 }
 
 section {
@@ -243,7 +214,6 @@ h1 {
     font-weight: 900;
 }
 
-
 h2 {
     text-align: center;
     padding: 20px 0px;
@@ -258,11 +228,11 @@ h3 {
     font-family: "Oswald", sans-serif;
     font-weight: 900;
 }
+
 p {
     padding-left: 20px;
     text-align: left;
     font-size: 30px;
-
 }
 
 .img-gap img {
@@ -294,10 +264,8 @@ p .btn {
 }
 
 p a:hover {
-    background: black;
-   
+    background: black;   
 }
-
 
 /*------------------------------------ end of index page */
 /*-----------------------------------------------------About me*/
@@ -364,16 +332,18 @@ p {
 .progress {
     margin-bottom: 1rem;
 }
+
 .link-me{
     background-color:white !important;
 }
 /*----------------------------------------------------- end of About me*/
 /*-----------------------------------------------------Portfolio start*/
+
 .portfolio-div {
     text-align: center;
 }
 
-    .portfolio-div img {
+ .portfolio-div img {
         width: 400px;
         height: 200px;
         position: relative;
@@ -382,17 +352,17 @@ p {
     max-width: 100%;
     }
 
-    .portfolio-div h1 {
+ .portfolio-div h1 {
         font-size: 30px !important;
     }
+
 .button{
     text-align:center;
     margin:0;
     display:block;
 }
 
-
-    .hori-timeline .events .event-list {
+.hori-timeline .events .event-list {
         display: block;
         position: relative;
         text-align: center;
@@ -400,11 +370,11 @@ p {
         margin-right: 0;
     }
 
-        .hori-timeline h5{
+.hori-timeline h5{
             padding-top: 20px !important;
         }
 
-        .hori-timeline .events .event-list .event-date {
+.hori-timeline .events .event-list .event-date {
             position: absolute;
             top: 38px;
             left: 0;
@@ -452,12 +422,14 @@ p {
     background-color: lightgray;
     font-weight: bold;
 }
+
 .font-size-16{
     font-weight: 800 !important;
 }
 
 /*-----------------------------------------------------Portfolio end*/
 /*-----------------------------------------Contact */
+
 div.form {
     display: block;
     text-align: center;
@@ -470,14 +442,17 @@ form {
     margin-right: auto;
     text-align: left;
 }
+
 .form p{
     text-align:center;
     color:black;
     font-size:15px;
 }
+
 ul {
     list-style-type: none;
 }
+
 h5{
     font-weight:900;
     font-family: "Oswald", sans-serif;
@@ -516,13 +491,11 @@ textarea.ng-invalid.ng-touched {
     color: #fd27eb !important;
 }
 
-
  .contact-form-area .contact-form-area {
     color: #fff;
     background-color: #f7da9d;
     border-color: #22b9ff;
 }
-
 
 .contact-form-area .button-default {
     border: 0 none;
@@ -544,9 +517,11 @@ footer {
     bottom: 0;
     z-index: 100;
 }
+
 .inline-block{
     color:white !important;
 }
+
 .CV-pdf i {
     font-size: 18px;
     color: #fafafa;
@@ -558,13 +533,14 @@ footer {
     -O-transition: all 0.35s ease-in-out;
 }
 
-    .CV-pdf i:hover {
+.CV-pdf i:hover {
         color: #ea4610;
     }
 
 .social-links {
     padding-bottom: 15px;
 }
+
 .copy-rights{
     padding-top: 20px;;
     text-align: center;
@@ -572,7 +548,7 @@ footer {
     font-weight: bolder !important;
 }
 
-    .social-links li a i {
+.social-links li a i {
         width: 32px;
         height: 32px;
         padding: 12px 0;
@@ -588,7 +564,7 @@ footer {
         -O-transition: all 0.35s ease-in-out;
     }
 
-        .social-links li a i:hover {
+.social-links li a i:hover {
             background: #ea4610;
         }
 
