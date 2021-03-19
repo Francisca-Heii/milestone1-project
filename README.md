@@ -49,6 +49,41 @@ later stage to check what new skills, or projects are added to the website since
 8. As a recruiter I want to see the developer’s contact information so that I can contact them.
 9. As a recruiter I want to see the developer's social media links so that I can connect with them.
 
+#### User's journey:
+
+1. The user begins at the home page.The user begins at the home page
+
+<p align="center"><img width="450" height="300" src="readme-images/index.jpg"></p>
+
+2.  The user can click the "read more" button or "about me" link on the navigation bar to go to the "about me" page. In this page the user will see web icons which symbolise "fast", "responsive" and "intuitive".
+    The user can also find a brief introduction about myself, what am I currently doing career wise, what I'm I looking for right now for example, internship, job seeking or career change. The user can also find
+    a link to my linkedin profile which opens in a new tab when clicked.
+   
+    As the user scrolls down the page, he/she can also find my skills proficiency level. At the bottom of the page is the footer, the user can download my cv, can see what social media I'm on, they can find me and connect if they wish to do so. 
+    All the social media links, download my cv exist in every page and opens in a new tab. 
+
+<p align="center"><img width="550" height="300" src="readme-images/user-journey/abt.png"></p>
+<p align="center"><img width="550" height="300" src="readme-images/user-journey/abt2.png"></p>
+
+3. The user can click the portfolio link on the navigation bar to go to the portfolio page. This is where they will find the projects I have been working on lately.
+
+    The user will find images of the those projects, a discription of each project and technologies used to build each project. As the user scrolls down they
+    will find two buttons "go to app" and "go to git hub" below each project. The user can click on each button which then opens in a new tab. The user can also see my work history. 
+
+<p align="center"><img width="550" height="300" src="readme-images/user-journey/port-1.png"></p>
+<p align="center"><img width="550" height="300" src="readme-images/user-journey/port-2.png"></p>
+
+4.  The user can click the contact link on the navigation bar to go to the contact page. If the user is interested in finding out more about me, or have any question they can choose to contact me by filling in the form and submit
+    or they can directly contact me my email or mobile phone. 
+
+<p align="center"><img width="550" height="300" src="readme-images/user-journey/form.png"></p>
+
+
+
+
+
+
+
 ---
 
 ### DESIGN:
@@ -463,15 +498,15 @@ did in the previous User Centric Frontend Development Module and modified it sli
 
 ### Acknowledgments
 
-I would like to thank the following people who have helped me in my first milestone project: 
+- I would like to thank the following people who have helped me in my first milestone project: 
 
-My Supervisor Precious Ijege for his consistent support, guidance and encouragement.
+- My Supervisor Precious Ijege for his consistent support, guidance and encouragement.
 
-Tutor support especially Michael and Miklos they have been very helful and patient.
+- Tutor support especially Michael and Miklos they have been very helful and patient.
 
- Code Institiute team who have been a great source of support and my fellow colleagues from slack community.
+- Code Institiute team who have been a great source of support and my fellow colleagues from slack community.
  
-To conclude I cannot forget to thank my family and friends for their unconditional support.
+- To conclude I cannot forget to thank my family and friends for their unconditional support.
 
 
 
