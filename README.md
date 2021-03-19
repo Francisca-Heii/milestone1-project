@@ -53,7 +53,7 @@ later stage to check what new skills, or projects are added to the website since
 
 1. The user begins at the home page.The user begins at the home page
 
-<p align="center"><img width="450" height="300" src="readme-images/index.jpg"></p>
+<p align="center"><img width="550" height="300" src="readme-images/user-journey/hom.png"></p>
 
 2.  The user can click the "read more" button or "about me" link on the navigation bar to go to the "about me" page. In this page the user will see web icons which symbolise "fast", "responsive" and "intuitive".
     The user can also find a brief introduction about myself, what am I currently doing career wise, what I'm I looking for right now for example, internship, job seeking or career change. The user can also find
@@ -62,7 +62,7 @@ later stage to check what new skills, or projects are added to the website since
     As the user scrolls down the page, he/she can also find my skills proficiency level. At the bottom of the page is the footer, the user can download my cv, can see what social media I'm on, they can find me and connect if they wish to do so. 
     All the social media links, download my cv exist in every page and opens in a new tab. 
 
-<p align="center"><img width="550" height="300" src="readme-images/user-journey/abt.png"></p>
+<p align="center"><img width="550" height="300" src="readme-images/user-journey/abt.jpg"></p>
 <p align="center"><img width="550" height="300" src="readme-images/user-journey/abt2.png"></p>
 
 3. The user can click the portfolio link on the navigation bar to go to the portfolio page. This is where they will find the projects I have been working on lately.
